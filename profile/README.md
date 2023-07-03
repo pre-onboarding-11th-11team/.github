@@ -8,4 +8,6 @@
 - [팀원] 조진일 (olzlel2000@gmail.com)
 - [팀원] 주대선 (eosun77@gmail.com)
 
+# 1주차 과제
 
+[과제 Repo](https://github.com/pre-onboarding-11th-11team/pre-onboarding-11th-1-11)
