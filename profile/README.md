@@ -10,8 +10,7 @@
 - [팀원] 주대선 (eosun77@gmail.com)
 
 ### 프로젝트 관리
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat&logo=GitHub&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 ## 과제  
 # 1주차 과제
