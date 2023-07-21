@@ -17,4 +17,10 @@
 # 과제  
 ## 1주차 과제
 
-[과제 Repo](https://github.com/pre-onboarding-11th-11team/pre-onboarding-11th-1-11)
+[과제 Repo](https://github.com/pre-onboarding-11th-11team/pre-onboarding-11th-1-11)  
+
+## 3주차 과제
+
+[과제 Repo](https://github.com/pre-onboarding-11th-11team/pre-onboarding-11th-3-11)
+
+## 4주차 과제
